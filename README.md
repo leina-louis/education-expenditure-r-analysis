@@ -465,8 +465,8 @@ Including additional socioeconomic and institutional controls would also provide
 
 ## Repository structure
 
-```text
-degrees-of-conviction
+```
+education-expenditure-r-analysis
 │
 ├── run_analysis.R
 │
@@ -489,7 +489,7 @@ degrees-of-conviction
 │   └── processed/
 │       └── [generated analysis datasets]
 │
-├── output/
+├── outputs/
 │   ├── figures/
 │   │   └── [generated figures]
 │   │
@@ -499,10 +499,8 @@ degrees-of-conviction
 ├── .gitignore
 ├── LICENSE
 ├── README.md
-└── degrees-of-conviction.Rproj
+└── education-expenditure-r-analysis.Rproj
 ```
-
----
 
 ## How to run it
 
@@ -562,15 +560,14 @@ No machine-specific absolute paths are required.
 
 Running the analysis generates files in:
 
-```text
-output/
+```outputs/
 ├── figures/
-└── tables/
+└── tables/ 
 ```
 
 ### Figures
 
-`output/figures/` contains the generated visualisations, including:
+`outputs/figures/` contains the generated visualisations, including:
 
 - educational attainment figures;
 - education composition figures;
@@ -583,15 +580,13 @@ output/
 
 ### Tables
 
-`output/tables/` contains statistical and summary outputs, including correlation and regression results where applicable.
+`outputs/tables/` contains statistical and summary outputs, including correlation and regression results where applicable.
 
 ### Processed data
 
 Intermediate datasets generated during the analysis are stored in:
 
-```text
-data/processed/
-```
+`data/processed/`
 
 This keeps generated data separate from the prepared input datasets in `data/raw/`.
 
