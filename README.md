@@ -1,5 +1,7 @@
 # Degrees of Conviction: The Intersection of Education and Crime in India
 
+<img width="512" height="265" alt="totaltrend" src="https://github.com/user-attachments/assets/67880ac9-674e-4b3d-a8e4-3d288309ff82" />
+
 A reproducible R analysis examining the relationship between **state-level education expenditure and violent crime in India**.
 
 This project was completed as part of the **Data, Democracy and Development (DDD)** course, *Introduction to Programming and Basic Data Analysis*, at **Azim Premji University, Bengaluru**.
@@ -313,9 +315,13 @@ The repository produces several categories of visualisations.
 
 ### Figure 1 — Educational attainment
 
+<img width="512" height="265" alt="education-prim,sec,higher" src="https://github.com/user-attachments/assets/683e17c4-511b-48f6-9657-5988b8e3b63a" />
+
 The educational-attainment visualisations compare total education and the composition of educational attainment across the 18 states using 2011 Census data.
 
 ### Education expenditure trends
+
+<img width="512" height="265" alt="education_statewise" src="https://github.com/user-attachments/assets/eed50064-41cb-4741-a8eb-ffa15d397675" />
 
 State-wise expenditure visualisations trace education expenditure as a percentage of GSDP over time.
 
@@ -323,9 +329,13 @@ The state-level facet plots make it possible to compare expenditure trajectories
 
 ### Education expenditure maps
 
+<img width="512" height="265" alt="2009" src="https://github.com/user-attachments/assets/46da0532-e1c1-4534-af89-b63fb5ef8d00" />
+
 State-level maps visualise geographical variation in education expenditure across the study period.
 
 ### Violent crime and education expenditure
+
+<img width="512" height="265" alt="statewise" src="https://github.com/user-attachments/assets/ce44f7fd-c360-4f2b-9d0a-55a197d87573" />
 
 Scatterplots examine the relationship between education expenditure and violent crime.
 
@@ -611,18 +621,17 @@ This keeps generated data separate from the prepared input datasets in `data/raw
 ## Course
 
 This project was completed for:
-
-**Data, Democracy and Development (DDD)**  
-**Introduction to Programming and Basic Data Analysis**  
-**Azim Premji University, Bengaluru**
+**Introduction to Programming and Basic Data Analysis,**  
+**Data, Democracy and Development,**  
+**Azim Premji University, Bengaluru.**
 
 ---
 
 ## Individual contributions
 
-- **Dhayashri R.K.:** Empirical Analysis — correlation and regression
-- **Leina Louis:** Visualisations
-- **Swetha R.:** Data Cleaning
+- **Dhayashri R.K.:** Correlation and regression
+- **Leina Louis:** Visualisations and graphing
+- **Swetha R.:** Data sourcing and cleaning
 
 The present repository focuses on the **analysis and visualisation components** of the project. The original data-cleaning workflow is not included.
 
