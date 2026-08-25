@@ -1,8 +1,8 @@
 # Degrees of Conviction: The Intersection of Education and Crime in India
 
-<img width="512" height="265" alt="totaltrend" src="https://github.com/user-attachments/assets/67880ac9-674e-4b3d-a8e4-3d288309ff82" />
-
 A reproducible R analysis examining the relationship between **state-level education expenditure and violent crime in India**.
+
+<img width="512" height="265" alt="totaltrend" src="https://github.com/user-attachments/assets/67880ac9-674e-4b3d-a8e4-3d288309ff82" />
 
 This project was completed as part of the **Data, Democracy and Development (DDD)** course, *Introduction to Programming and Basic Data Analysis*, at **Azim Premji University, Bengaluru**.
 
